@@ -1,0 +1,3 @@
+/bin/ls
+alias ls /bin/ls
+ls > output.txt
