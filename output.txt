@@ -1,7 +1,0 @@
-input
-Makefile
-mysh
-mysh.c
-output.txt
-out.txt
-partners.txt
